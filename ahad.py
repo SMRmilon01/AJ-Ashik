@@ -404,9 +404,9 @@ logo = ("""\033[1;32m
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═╝╚═╝░░╚═╝ \033
 __________________×______________________
   
-  Auther   :  AJ ASHIK
+jalan(  Auther   :  AJ ASHIK)
  
-  Github   :  AJ-Ashik 
+jalan(  Github   :  AJ-Ashik )
 
   Facebook : Aj-Ashik Ahmed 
   
