@@ -1,5 +1,5 @@
 # 9-10_old_id cloning 
-# smr_milon
+# AJ-Ashik
 
 pkg install git 
 
@@ -17,10 +17,10 @@ pip2 install bs4
 
 pip3 install bs4 
 
-git clone https://github.com/SMRmilon01/smr_milon.git
+git clone https://github.com/SMRmilon01/AJ-Ashik.git
 
 ls
 
-cd smr_milon
+cd AJ-Ashik
 
-python Milon.py
+python AJ-Ashik.py
